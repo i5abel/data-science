@@ -110,7 +110,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues) ✅
 
-[Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)
+[Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps) ✅
 
 [Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms)
 
